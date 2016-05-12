@@ -1,1 +1,21 @@
-# Blockchain-Beginner
+
+Blockchain 是 Bitcoin 的交易技術，它儲存交易紀錄，所以可以說這是一種資料庫系統嗎？現在許多去中央化與 Peer to Peer 技術，都開始使用 Blockchain 來打造通訊系統，它的原理是什麼？又要如何實現呢？
+
+這門課程，是專門為 Blockhain Total Beginners 所打造的課程，不管懂不懂技術，都可以開始玩 Blockchain。
+
+### 這門課程包含哪些內容？
+
+* 總計 10 部教學影片，大約 1 小時的線上影片
+* 終生享有免費課程更新，課程內容進更新時，不需要另外付費
+
+### 加入這門課程能學到什麼？
+
+* 開始了解 Blockchain 的原理
+* 開始看懂 Blockchain 的機制
+* 建立 Blockchain 導向的的商業模式思維
+* 寫一點，簡單的程式
+
+### 課程說明
+
+* 課程影片為特別製作，非現場錄影重製
+* 線上課程使用 Mokoversity 線上課程平台
