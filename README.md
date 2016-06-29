@@ -30,3 +30,4 @@ Blockchain 的本質與原理倒是什麼呢？透過這本課程，你可以在
 * 2016.6.27: [區塊鏈或提高金融業競爭優勢 監管層興趣漸濃](http://news.cnyes.com/Content/20160627/20160627162016000395828.shtml)
 * 2016.6.7: [測試區塊鏈技術 加國央行 開發數位貨幣](http://www.chinatimes.com/newspapers/20160618000093-260203)
 * 2016.3.28: [IBM在臺揭露區塊鏈戰略：加速催熟開源區塊鏈，不推自有版本](http://www.ithome.com.tw/news/104954)
+* [使用 Blockchain 的 P2P 保險公司](http://www.dynamisapp.com/)
